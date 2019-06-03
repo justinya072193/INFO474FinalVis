@@ -1,1 +1,1 @@
-# INFO474FinalVis
+# FirstFinalVisualization
